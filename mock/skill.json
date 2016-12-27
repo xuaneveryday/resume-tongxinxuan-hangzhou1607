@@ -1,0 +1,60 @@
+﻿
+
+
+[
+	{
+		"img":"img/ang.jpg",
+		"name":"AngularJs",
+		"time":"1年",
+		"level":"了解"
+	},
+	{
+		"img":"img/css3.jpg",
+		"name":"Css3",
+		"time":"2年",
+		"level":"熟悉"
+	},
+	{
+		"img":"img/h5.jpg",
+		"name":"HTML5",
+		"time":"2年",
+		"level":"熟悉"
+	},
+	{
+		"img":"img/jq.jpg",
+		"name":"JQuery",
+		"time":"2年",
+		"level":"熟悉"
+	},
+	{
+		"img":"img/js.jpg",
+		"name":"JS",
+		"time":"2年",
+		"level":"熟悉"
+	},
+	{
+		"img":"img/node.jpg",
+		"name":"Node.js",
+		"time":"2年",
+		"level":"熟悉"
+	},
+	{
+		"img":"img/sass.jpg",
+		"name":"Sass",
+		"time":"3年",
+		"level":"精通"
+	},
+	{
+		"img":"img/swip.jpg",
+		"name":"Swiper",
+		"time":"3年",
+		"level":"精通"
+	}
+	,
+	{
+		"img":"img/zep.jpg",
+		"name":"Zepto",
+		"time":"3年",
+		"level":"精通"
+	}
+]
